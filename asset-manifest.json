@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/ahsanep/Covid19.git/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/ahsanep/Covid19.git/static/js/main.9fd4c2f4.chunk.js",
+    "main.js.map": "/ahsanep/Covid19.git/static/js/main.9fd4c2f4.chunk.js.map",
+    "runtime-main.js": "/ahsanep/Covid19.git/static/js/runtime-main.8eb94897.js",
+    "runtime-main.js.map": "/ahsanep/Covid19.git/static/js/runtime-main.8eb94897.js.map",
+    "static/css/2.ae9f1eb3.chunk.css": "/ahsanep/Covid19.git/static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.2669970d.chunk.js": "/ahsanep/Covid19.git/static/js/2.2669970d.chunk.js",
+    "static/js/2.2669970d.chunk.js.map": "/ahsanep/Covid19.git/static/js/2.2669970d.chunk.js.map",
+    "static/js/3.2168e49e.chunk.js": "/ahsanep/Covid19.git/static/js/3.2168e49e.chunk.js",
+    "static/js/3.2168e49e.chunk.js.map": "/ahsanep/Covid19.git/static/js/3.2168e49e.chunk.js.map",
+    "index.html": "/ahsanep/Covid19.git/index.html",
+    "static/css/2.ae9f1eb3.chunk.css.map": "/ahsanep/Covid19.git/static/css/2.ae9f1eb3.chunk.css.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/ahsanep/Covid19.git/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.2669970d.chunk.js.LICENSE.txt": "/ahsanep/Covid19.git/static/js/2.2669970d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8eb94897.js",
+    "static/css/2.ae9f1eb3.chunk.css",
+    "static/js/2.2669970d.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.9fd4c2f4.chunk.js"
+  ]
+}
